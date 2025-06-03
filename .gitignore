@@ -1,0 +1,8 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+packrat/lib*/
+.Renviron
