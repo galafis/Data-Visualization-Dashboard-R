@@ -1,0 +1,13 @@
+# Logo Placeholder
+
+This is a placeholder for the logo.png file.
+
+To add a real logo:
+1. Upload a PNG image file named 'logo.png' to this directory
+2. Replace this placeholder file
+
+Recommended logo specifications:
+- Format: PNG
+- Size: 200x50 pixels (or similar proportions)
+- Background: Transparent
+- Style: Should match the dashboard theme
