@@ -13,6 +13,20 @@ Dashboard interativo de visualização de dados construído em R com Shiny, ofer
 
 Aplicação Shiny completa para visualização e análise de dados que combina o poder estatístico do R com interfaces web interativas para criar dashboards profissionais e responsivos.
 
+```mermaid
+flowchart LR
+    A[Data Sources\nCSV / DB / API] --> B[R Processing\ndplyr / tidyr\nStatistical Analysis]
+    B --> C[ggplot2 / Plotly Charts\nScatter / Line / Heatmap\nLeaflet Maps]
+    C --> D[Shiny UI\nReactive Components\nDynamic Filters]
+    D --> E[Interactive Dashboard\nDrill-Down\nExport PDF / HTML / Excel]
+
+    style A fill:#276DC3,color:#fff
+    style B fill:#47A141,color:#fff
+    style C fill:#FF6600,color:#fff
+    style D fill:#3F4F75,color:#fff
+    style E fill:#4285F4,color:#fff
+```
+
 ### ✨ Características Principais
 
 - **📊 Visualizações Avançadas**: ggplot2, plotly, leaflet para mapas
