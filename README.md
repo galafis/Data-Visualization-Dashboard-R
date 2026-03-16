@@ -1,11 +1,13 @@
 # Data Visualization Dashboard R
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat&logo=RStudio&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-FF6600?style=flat&logo=r&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Flexdashboard](https://img.shields.io/badge/Flexdashboard-4285F4?style=flat&logo=r&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License-MIT](https://img.shields.io/badge/License--MIT-yellow?style=for-the-badge)
+
 
 Dashboard interativo de visualização de dados construído em R com Shiny, oferecendo análise estatística avançada, gráficos dinâmicos e relatórios automatizados para exploração de dados empresariais.
 
